@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ssc-akot/static/css/main.a06bf8b0.css",
+    "main.js": "/ssc-akot/static/js/main.16dddcd3.js",
+    "static/js/787.633816a4.chunk.js": "/ssc-akot/static/js/787.633816a4.chunk.js",
+    "static/media/logo.png": "/ssc-akot/static/media/logo.4fdc9d52293b7f0098e2.png",
+    "static/media/pd.png": "/ssc-akot/static/media/pd.56ea4b587e621608ae2d.png",
+    "index.html": "/ssc-akot/index.html",
+    "main.a06bf8b0.css.map": "/ssc-akot/static/css/main.a06bf8b0.css.map",
+    "main.16dddcd3.js.map": "/ssc-akot/static/js/main.16dddcd3.js.map",
+    "787.633816a4.chunk.js.map": "/ssc-akot/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a06bf8b0.css",
+    "static/js/main.16dddcd3.js"
+  ]
+}
